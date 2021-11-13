@@ -31,7 +31,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="newmayor's GitHub Stats" src="https://github-readme-stats.newmayor.vercel.app/api?username=newmayor&show_icons=true&hide_border=true" />
+  [![Numair's GitHub stats](https://github-readme-stats.vercel.app/api?username=newmayor)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
