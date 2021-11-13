@@ -16,22 +16,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/newmayor/portfolio-sass/issues/2) in [newmayor/portfolio-sass](https://github.com/newmayor/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/newmayor/portfolio-sass/issues/2) in [newmayor/portfolio-sass](https://github.com/newmayor/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/newmayor/free-developer-resources/pull/11) in [newmayor/free-developer-resources](https://github.com/newmayor/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/newmayor/free-developer-resources/issues/11) in [newmayor/free-developer-resources](https://github.com/newmayor/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/newmayor/free-developer-resources/pull/10) in [newmayor/free-developer-resources](https://github.com/newmayor/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Numair's GitHub stats](https://github-readme-stats.vercel.app/api?username=newmayor)](https://github.com/anuraghazra/github-readme-stats)
+  [![Numair's GitHub stats](https://github-readme-stats.vercel.app/api?username=newmayor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
