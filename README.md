@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Numair!
 
-## I'm a a tinkerer and learner of robotics!!
+## I'm a a tinkerer and learner of robotics!
 
  - I enjoy working on data projects that help give insight into hardware problems
  - Currently working on a predictive analytics project for mechanical problems in robotics hardware
